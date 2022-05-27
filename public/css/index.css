@@ -1,0 +1,515 @@
+.i-mac1152-i-mac1152 {
+    position: relative;
+    min-height: 75vh;
+}
+
+.i-mac1152-stud189 {
+    top: 246px;
+    left: 309px;
+    width: 482px;
+    height: 329.565185546875px;
+    display: flex;
+    position: absolute;
+    left: 67%;
+    top: 70%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+}
+
+.i-mac1152-svg {
+    top: 93.565185546875px;
+    left: 303.9541015625px;
+    width: 106;
+    height: 67;
+    position: absolute;
+    animation: sthand_right 5s infinite linear;
+}
+
+@keyframes sthand_right {
+    50% {
+        transform: rotate(10deg);
+    }
+}
+
+.i-mac1152-svg01 {
+    top: 164.565185546875px;
+    left: 69.9541015625px;
+    width: 385;
+    height: 162;
+    position: absolute;
+}
+
+.i-mac1152-svg02 {
+    top: 88.565185546875px;
+    left: 161.9541015625px;
+    width: 129;
+    height: 79;
+    position: absolute;
+}
+
+.i-mac1152-svg03 {
+    top: 114px;
+    left: 210px;
+    width: 33;
+    height: 28;
+    position: absolute;
+    animation: tr_screen 5s infinite linear;
+}
+
+@keyframes tr_screen {
+    50% {
+        transform: rotate(-10deg);
+    }
+}
+
+.i-mac1152-svg04 {
+    top: 137.565185546875px;
+    left: 197.9541015625px;
+    width: 63;
+    height: 24;
+    position: absolute;
+}
+
+.i-mac1152-svg05 {
+    top: 158.565185546875px;
+    left: 156.9541015625px;
+    width: 140;
+    height: 9;
+    position: absolute;
+}
+
+.i-mac1152-svg06 {
+    top: 111.565185546875px;
+    left: 51.9541015625px;
+    width: 91;
+    height: 53;
+    position: absolute;
+}
+
+.i-mac1152-svg07 {
+    top: 111.565185546875px;
+    left: 50.9541015625px;
+    width: 80;
+    height: 26;
+    position: absolute;
+}
+
+.i-mac1152-svg08 {
+    top: 202.565185546875px;
+    left: 111.9541015625px;
+    width: 91;
+    height: 122;
+    position: absolute;
+}
+
+.i-mac1152-svg09 {
+    top: 156.565185546875px;
+    left: 303.9541015625px;
+    width: 40;
+    height: 10;
+    position: absolute;
+}
+
+.i-mac1152-svg10 {
+    top: 225.565185546875px;
+    left: 330.9541015625px;
+    width: 106;
+    height: 103;
+    position: absolute;
+}
+
+.i-mac1152-svg11 {
+    top: 314.565185546875px;
+    left: 320.9541015625px;
+    width: 36;
+    height: 15;
+    position: absolute;
+}
+
+.i-mac1152-svg12 {
+    top: 289.565185546875px;
+    left: 337.9541015625px;
+    width: 22;
+    height: 29;
+    position: absolute;
+}
+
+.i-mac1152-svg13 {
+    top: 314.565185546875px;
+    left: 326.9541015625px;
+    width: 35;
+    height: 15;
+    position: absolute;
+}
+
+.i-mac1152-svg14 {
+    top: 195.565185546875px;
+    left: 313.9541015625px;
+    width: 109;
+    height: 110;
+    position: absolute;
+}
+
+.i-mac1152-svg15 {
+    top: 121.565185546875px;
+    left: 371.9541015625px;
+    width: 58;
+    height: 91;
+    position: absolute;
+}
+
+.i-mac1152-image {
+    top: 148.997314453125px;
+    left: 303.6280517578125px;
+    width: 94px;
+    height: 45px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    animation: sthand_left 5s infinite linear;
+}
+
+@keyframes sthand_left {
+    50% {
+        transform: rotate(-10deg);
+    }
+}
+
+.i-mac1152-image1 {
+    top: 59px;
+    left: 377px;
+    width: 105px;
+    height: 115px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    animation: st_head 5s infinite linear;
+}
+
+@keyframes st_head {
+    50% {
+        transform: rotate(-10deg);
+    }
+}
+
+.i-mac1152-stutext1545 {
+    top: 0px;
+    left: 0px;
+    width: 131px;
+    height: 84.70133209228516px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.i-mac1152-svg16 {
+    width: 131;
+    height: 85;
+    position: absolute;
+}
+
+.i-mac1152-svg17 {
+    top: 4.235062599182129px;
+    left: 4.235072612762451px;
+    width: 122;
+    height: 64;
+    position: absolute;
+}
+
+.i-mac1152-svg18 {
+    top: 8.085123062133789px;
+    left: 10.010112762451172px;
+    width: 17;
+    height: 17;
+    position: absolute;
+}
+
+.i-mac1152-svg19 {
+    top: 19.635303497314453px;
+    left: 35.03555679321289px;
+    width: 45;
+    height: 5;
+    position: absolute;
+    animation: st_bar_up 3s infinite alternate-reverse;
+}
+
+@keyframes st_bar_up {
+    from {
+        left: 35px;
+    }
+    to {
+        left: 60px;
+    }
+}
+
+.i-mac1152-svg20 {
+    top: 30.415481567382812px;
+    left: 30.030498504638672px;
+    width: 65;
+    height: 6;
+    position: absolute;
+    animation: st_bar_dw 3s infinite alternate;
+}
+
+@keyframes st_bar_dw {
+    from {
+        left: 30px;
+    }
+    to {
+        left: 60px;
+    }
+}
+
+.i-mac1152-studot1551 {
+    top: 56.21086502075195px;
+    left: 91.24636840820312px;
+    width: 27px;
+    height: 6.674930095672607px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.i-mac1152-svg21 {
+    top: 0.000020254201444913633px;
+    width: 7;
+    height: 7;
+    position: absolute;
+    animation: mercury 1.8s infinite ease-in-out;
+    animation-delay: 100ms;
+}
+
+.i-mac1152-svg22 {
+    left: 10.17133617401123px;
+    width: 7;
+    height: 7;
+    position: absolute;
+    animation: mercury 1.8s infinite ease-in-out;
+    animation-delay: 300ms;
+}
+
+.i-mac1152-svg23 {
+    left: 20.660581588745117px;
+    width: 7;
+    height: 7;
+    position: absolute;
+    animation: mercury 1.8s infinite ease-in-out;
+    animation-delay: 500ms;
+}
+
+.i-mac1152-tr188 {
+    top: 149px;
+    left: 0px;
+    width: 279px;
+    height: 323px;
+    display: flex;
+    position: absolute;
+    left: 33%;
+    top: 45%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.i-mac1152-svg24 {
+    top: 165px;
+    left: 89px;
+    width: 116;
+    height: 152;
+    position: absolute;
+}
+
+.i-mac1152-image2 {
+    top: 183px;
+    left: 125px;
+    width: 105px;
+    height: 133px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    animation: tr_left 5s infinite linear;
+}
+
+@keyframes tr_left {
+    50% {
+        transform: rotate(-10deg);
+    }
+}
+
+.i-mac1152-image3 {
+    top: 85px;
+    left: 0px;
+    width: 191px;
+    height: 190px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    animation: tr_right 5s infinite linear;
+}
+
+@keyframes tr_right {
+    50% {
+        transform: rotate(9deg);
+    }
+}
+
+.i-mac1152-svg25 {
+    top: 228px;
+    left: 36px;
+    width: 167;
+    height: 95;
+    position: absolute;
+}
+
+.i-mac1152-trtext1535 {
+    top: 0px;
+    left: 151.106689453125px;
+    width: 128px;
+    height: 83.10860443115234px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.i-mac1152-svg26 {
+    width: 128;
+    height: 83;
+    position: absolute;
+}
+
+.i-mac1152-svg27 {
+    top: 2.64436674118042px;
+    left: 3.777683734893799px;
+    width: 121;
+    height: 65;
+    position: absolute;
+}
+
+.i-mac1152-svg28 {
+    top: 32px;
+    left: 32px;
+    width: 63;
+    height: 6;
+    position: absolute;
+    animation: tr_bar_down 3s infinite alternate;
+}
+
+@keyframes tr_bar_down {
+    from {
+        left: 32px;
+    }
+    to {
+        left: 55px;
+    }
+}
+
+.i-mac1152-svg29 {
+    top: 20.399389266967773px;
+    left: 35.88775634765625px;
+    width: 44;
+    height: 5;
+    position: absolute;
+    animation: tr_bar_up 3s infinite alternate-reverse;
+}
+
+@keyframes tr_bar_up {
+    from {
+        left: 35px;
+    }
+    to {
+        left: 70px;
+    }
+}
+
+.i-mac1152-svg30 {
+    top: 11.526535987854004px;
+    left: 10.196455001831055px;
+    width: 17;
+    height: 17;
+    position: absolute;
+}
+
+.i-mac1152-trdot1541 {
+    top: 56px;
+    left: 15px;
+    width: 27px;
+    height: 6.927181720733643px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.i-mac1152-svg31 {
+    width: 7;
+    height: 7;
+    position: absolute;
+    animation: mercury 1.8s infinite ease-in-out;
+    animation-delay: 100ms;
+}
+
+.i-mac1152-svg32 {
+    top: 0px;
+    left: 10px;
+    width: 7;
+    height: 7;
+    position: absolute;
+    animation: mercury 1.8s infinite ease-in-out;
+    animation-delay: 300ms;
+}
+
+.i-mac1152-svg33 {
+    top: -0.55px;
+    left: 20px;
+    width: 7;
+    height: 7;
+    position: absolute;
+    animation: mercury 1.8s infinite ease-in-out;
+    animation-delay: 500ms;
+}
+
+@keyframes mercury {
+    0% {
+        transform: translateY(0px);
+    }
+    28% {
+        transform: translateY(-9px);
+    }
+    44% {
+        transform: translateY(0px);
+    }
+}
+
+.i-mac1152-image4 {
+    top: 104px;
+    left: 101px;
+    width: 92px;
+    height: 78px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    animation: tr_head 5s infinite linear;
+}
+
+@keyframes tr_head {
+    50% {
+        transform: rotate(-8deg);
+    }
+}
